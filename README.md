@@ -1,16 +1,17 @@
-### Hi there 👋
+## Opa, e aí?
 
-<!--
-**stefanimeneghetti/stefanimeneghetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="cat.gif" width="190px" align="right" style="margin-right:18px">
 
-Here are some ideas to get you started:
+Meu nome é Stefani, estudo Ciência da Computação na Universidade Federal da Fronteira Sul e amo aprender mais sobre tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Algumas ferramentas que conheço
+
+* Python - primeira linguagem ❤️
+* Java
+* C
+* Html/CSS/JavaScript
+* Ionic
+
+###  GitHub Stats
+
+<img align ="left" src="https://github-readme-stats.vercel.app/api?username=stefanimeneghetti&show_icons=true&theme=dracula" />
